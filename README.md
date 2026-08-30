@@ -1,7 +1,12 @@
-### Hi, I'm Reshmi 👋
+### Hi, I'm Reshmi Ditty 
+**AI & Data Science Student at Karunya University**
 
-I'm a student pursuing Artificial Intelligence and Data Science at Karunya Institute of Technology and Sciences. I'm passionate about exploring machine learning and how data-driven approaches can solve real-world problems, and I'm currently building my skills in Python, data analysis, and deep learning. I enjoy working on projects that combine curiosity with practical impact, and I'm always eager to learn new tools and techniques in the AI/ML space. Feel free to check out my projects below, or reach out — always happy to connect and collaborate!
+📍 Coimbatore, Tamilnadu, India | 📧 reshmiditty2009@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/reshmi-ditty-581712431)
 
+### 🚀 About Me
+* Pursuing B.Tech in **Artificial Intelligence & Data Science** at Karunya Institute of Technology and Sciences.
+* Passionate about Computer Vision, Generative AI (RAG), and Big Data Analytics.
+* Currently Learning **Docker, Ubuntu (Linux), PyCharm, Visual Studio**.
 ---
 
 ### 🛠️ Skills
@@ -49,4 +54,5 @@ I'm a student pursuing Artificial Intelligence and Data Science at Karunya Insti
 
 ### 📫 Contact
 🌐 Portfolio: [reshmiditty.github.io](https://reshmiditty.github.io)
-📧 your.email@example.com
+📧 reshmiditty2009@gmail.com
+💼 LinkedIn: (https://www.linkedin.com/in/reshmi-ditty-581712431)
