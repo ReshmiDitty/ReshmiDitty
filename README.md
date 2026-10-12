@@ -1,7 +1,7 @@
 ### Hi, I'm Reshmi Ditty 
 **AI & Data Science Student at Karunya University**
 
-📍 Coimbatore, Tamilnadu, India | 📧 reshmiditty2009@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/reshmi-ditty-581712431)
+📍 Coimbatore, Tamilnadu, India | 📧 reshmiditty@karunya.edu.in | 💼 [LinkedIn](https://www.linkedin.com/in/reshmi-ditty-581712431)
 
 ### 🚀 About Me
 * Pursuing B.Tech in **Artificial Intelligence & Data Science** at Karunya Institute of Technology and Sciences.
